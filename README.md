@@ -3,7 +3,7 @@
 </div>
 
 
-### 👨🏼‍💻About Me
+### ⭐️About Me
 - I’m majoring at Software Engineering at Jeonbuk National University.
 - I’m currently learning `Machine Lerning` and `Deep Learning`.
 </br>
