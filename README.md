@@ -1,8 +1,5 @@
 <div align="center">
 
-### Hi there 👋
-</br>
-
 <a href="https://dvpaa.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a> <img alt="Gmail" src ="https://img.shields.io/badge/kgo000926@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 ### ⌨️Tech Stacks
@@ -17,15 +14,13 @@
 
 
 
-
-### 📊GitHub stats
-![dvpaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvpaa&theme=nightowl&show_icons=true)
+### 🏅BOJ Solved Rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kgo0926)](https://solved.ac/kgo0926)
 
 ### 📝Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvpaa&layout=Demo&theme=onedark)
 
-
-### 🏅BOJ Solved Rank
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kgo0926)](https://solved.ac/kgo0926)
+### 📊GitHub stats
+![dvpaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvpaa&theme=nightowl&show_icons=true)
 
 </div>
