@@ -1,10 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Geonu%20Kim&fontSize=90" />
+
+
+  <img src="https://komarev.com/ghpvc/?username=dvpaa&label=Profile%20views&color=0e75b6&style=flat&color=607DEF"/>&nbsp;&nbsp;
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kgo0926)](https://solved.ac/kgo0926)&nbsp;&nbsp;
 </div>
 
-
 ### ⭐️About Me
-- I’m majoring at Software Engineering at Jeonbuk National University.
+- I’m majoring at `Software Engineering` at `Jeonbuk National University`.
 - I’m currently learning `Machine Lerning` and `Deep Learning`.
 </br>
 
