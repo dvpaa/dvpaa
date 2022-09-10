@@ -1,5 +1,8 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Geonu%20Kim&fontSize=90" />
+
+
 <a href="https://dvpaa.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a> <img alt="Gmail" src ="https://img.shields.io/badge/kgo000926@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
 
 ## ⌨️Tech Stacks
