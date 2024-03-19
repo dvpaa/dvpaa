@@ -14,7 +14,7 @@
 
 ### ✉️Contact
 <!-- <a href="https://dvpaa.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a> -->
-- <a href="mailto:kgo000926@gmail.com" target="_blank"><img alt="Gmail" style="width:70px;" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+- <a href="mailto:kgo000926@gmail.com" target="_blank"><img alt="Gmail" style="width:60px;" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </br></br>
 
 <!--
