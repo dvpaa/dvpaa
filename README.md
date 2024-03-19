@@ -12,11 +12,13 @@
 - I’m majoring in `Software Engineering` at `Jeonbuk National University`.
 <!-- - I’m currently learning `Machine Lerning` and `Deep Learning`. -->
 
+<!--
 ### ✉️Contact
-<!-- <a href="https://dvpaa.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a> -->
-- <a href="mailto:kgo000926@gmail.com" target="_blank"><img alt="Gmail" style="width:60px;" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://dvpaa.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+<a href="mailto:kgo000926@gmail.com" target="_blank"><img alt="Gmail" style="width:60px;" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </br></br>
-
+-->
+  
 <!--
 ### ⌨️Tech Stacks
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> <img alt="scikit-learn
