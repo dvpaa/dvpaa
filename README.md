@@ -1,3 +1,4 @@
+<!--
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeAuto&height=300&section=header&text=Geonu%20Kim&fontSize=90" />
 
@@ -5,6 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=dvpaa&label=Profile%20views&color=0e75b6&style=flat&color=607DEF"/>&nbsp;&nbsp;
   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kgo0926)](https://solved.ac/kgo0926)&nbsp;&nbsp;
 </div>
+-->
 
 ### ⭐️About Me
 - I’m majoring in `Software Engineering` at `Jeonbuk National University`.
@@ -12,7 +14,7 @@
 </br>
 
 
-### ✉️Contact Me
+### ✉️Contact
 <!-- <a href="https://dvpaa.tistory.com/" target="_blank"><img alt="Tistory" src ="https://img.shields.io/badge/Blog-000000.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/></a> -->
 <a href="mailto:kgo000926@gmail.com" target="_blank"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </br></br>
@@ -26,6 +28,7 @@
 </br></br>
 -->
 
+<!--
 ### 🏅BOJ Solved Rank
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgo0926)](https://solved.ac/kgo0926)
 </br></br>
@@ -36,3 +39,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dvpaa&hide=stars&count_private=true&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvpaa&langs_count=4&layout=compact&bg_color=30,96b8dc,3ea5db&title_color=fff&text_color=fff" height="150px">
 </div>
+-->
